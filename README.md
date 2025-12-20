@@ -107,8 +107,10 @@ My journey in computer science has fueled a deep passion for cybersecurity, and 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-TryHackMe-5A0FC8?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
-<img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TryHackMe-5A0FC8?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenSecurityTraining2-000000?&style=for-the-badge&logo=OpenSecurityTraining&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 
