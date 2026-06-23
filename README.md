@@ -1,14 +1,14 @@
-# Hello, I'm ISMEG Zakaria 👋
+# Hello, I'm ISMEG Zakaria 
 <a href="https://www.linkedin.com/in/ismeg-zakaria-12283a307"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. 🚀
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. 
 
 ## Objective 🎯
-My journey in computer science has fueled a deep passion for cybersecurity, and I am now eager to transition into offensive security. I am particularly drawn to penetration testing and ethical hacking, where I can apply my technical skills to identify and exploit vulnerabilities, strengthening security defenses. My goal is to develop expertise in red teaming, web application security, and network exploitation, ultimately contributing to proactive security measures. 🔒
+My journey in computer science has fueled a deep passion for cybersecurity, and I am now eager to transition into offensive security. I am particularly drawn to penetration testing and ethical hacking, where I can apply my technical skills to identify and exploit vulnerabilities, strengthening security defenses. My goal is to develop expertise in red teaming, web application security, and network exploitation, ultimately contributing to proactive security measures.
 
 ## Skills & Tools 🛠️
 
-### Reconnaissance & Information Gathering 🔍
+### Reconnaissance & Information Gathering 
 <div>
     <img src="https://img.shields.io/badge/-theHarvester-800000?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Maltego-1A1A1A?&style=for-the-badge&logo=Maltego&logoColor=white" />
@@ -19,7 +19,7 @@ My journey in computer science has fueled a deep passion for cybersecurity, and 
     <img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
-### Scanning & Enumeration 🔎
+### Scanning & Enumeration 
 <div>
     <img src="https://img.shields.io/badge/-Masscan-FF4500?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-00CC99?&style=for-the-badge&logo=Nessus&logoColor=white" />
@@ -28,7 +28,7 @@ My journey in computer science has fueled a deep passion for cybersecurity, and 
     <img src="https://img.shields.io/badge/-Gobuster-FFA500?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
-### Exploitation ⚡
+### Exploitation 
 <div>
     <img src="https://img.shields.io/badge/-Metasploit-3A3A3A?&style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-ExploitDB-9933CC?&style=for-the-badge&logo=Linux&logoColor=white" />
@@ -38,7 +38,7 @@ My journey in computer science has fueled a deep passion for cybersecurity, and 
     <img src="https://img.shields.io/badge/-XSStrike-FF1493?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
-### Post-Exploitation & Privilege Escalation 🛡️
+### Post-Exploitation & Privilege Escalation 
 <div>
     <img src="https://img.shields.io/badge/-WinPEAS-1E90FF?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-LinPEAS-228B22?&style=for-the-badge&logo=Linux&logoColor=white" />
@@ -47,7 +47,7 @@ My journey in computer science has fueled a deep passion for cybersecurity, and 
     <img src="https://img.shields.io/badge/-GTFOBins-DC143C?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
-### Wireless & Bluetooth Hacking 📡
+### Wireless & Bluetooth Hacking 
 <div>
     <img src="https://img.shields.io/badge/-Aircrack--ng-4682B4?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bettercap-FF4500?&style=for-the-badge&logo=Linux&logoColor=white" />
@@ -55,7 +55,7 @@ My journey in computer science has fueled a deep passion for cybersecurity, and 
     <img src="https://img.shields.io/badge/-Kismet-663399?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
-### Social Engineering & Phishing 🎣
+### Social Engineering & Phishing 
 <div>
     <img src="https://img.shields.io/badge/-SET-FF8C00?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Evilginx2-DC143C?&style=for-the-badge&logo=Linux&logoColor=white" />
@@ -63,7 +63,7 @@ My journey in computer science has fueled a deep passion for cybersecurity, and 
     <img src="https://img.shields.io/badge/-BeEF-8B0000?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
-### Red Teaming & Adversary Simulation 🦊 
+### Red Teaming & Adversary Simulation  
 <div>
     <img src="https://img.shields.io/badge/-Cobalt%20Strike-3A3A3A?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Empire-800080?&style=for-the-badge&logo=Linux&logoColor=white" />
@@ -71,7 +71,7 @@ My journey in computer science has fueled a deep passion for cybersecurity, and 
     <img src="https://img.shields.io/badge/-MITRE%20ATT&CK-FF0000?&style=for-the-badge&logo=MITRE&logoColor=white" />
 </div>
 
-### Cloud & Container Security ☁️
+### Cloud & Container Security 
 <div>
     <img src="https://img.shields.io/badge/-Pacu-FF4500?&style=for-the-badge&logo=AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-CloudSploit-008080?&style=for-the-badge&logo=AWS&logoColor=white" />
@@ -80,14 +80,14 @@ My journey in computer science has fueled a deep passion for cybersecurity, and 
     <img src="https://img.shields.io/badge/-Kube--Hunter-4169E1?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
 </div>
 
-### Mobile Application Hacking 📱
+### Mobile Application Hacking 
 <div>
     <img src="https://img.shields.io/badge/-MobSF-800000?&style=for-the-badge&logo=Android&logoColor=white" />
     <img src="https://img.shields.io/badge/-Frida-FFD700?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Objection-9933CC?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
-## Certifications 📜
+## Certifications 
 <div>
   <img src="https://img.shields.io/badge/-TryHackMe-5A0FC8?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
   <img src="https://img.shields.io/badge/-Coursera-0056D2?&style=for-the-badge&logo=Coursera&logoColor=white" />
@@ -95,7 +95,7 @@ My journey in computer science has fueled a deep passion for cybersecurity, and 
   <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
-## Projects 🚀
+## Projects 
 Here are some of my recent and public works (updated March 2026):
 
 | Project | Description | Language | Stars | Link |
@@ -108,11 +108,11 @@ Here are some of my recent and public works (updated March 2026):
 | **ISMEG-Portfolio-v1** (Private) | Cybersecurity Portfolio - IS MEG Zakaria (in progress) | TypeScript | ★1 | — |
 
 **Penetration Tester / Security Projects in Progress**  
-- Building hands-on labs & write-ups (TryHackMe, HackTheBox, custom vulnerable apps) 🧪  
-- Developing small vuln scanners & automation scripts (Python) 🐍  
-- Planning: Web app pentest reports & CTF solutions repo coming soon! 📝
+- Building hands-on labs & write-ups (TryHackMe, HackTheBox, custom vulnerable apps)  
+- Developing small vuln scanners & automation scripts (Python) 
+- Planning: Web app pentest reports & CTF solutions repo coming soon! 
 
-## Currently Exploring 🔍
+## Currently Exploring 
 - Red team tooling & adversary emulation (MITRE ATT&CK mapping)  
 - Bug bounty hunting basics 💰  
 - Building a dedicated **Cybersecurity Write-ups** repo 📚
