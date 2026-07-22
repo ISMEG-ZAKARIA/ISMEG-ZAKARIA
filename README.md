@@ -1,10 +1,10 @@
-# Hello, I'm ISMEG Zakaria 
-<a href="https://www.linkedin.com/in/ismeg-zakaria-12283a307"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. 
-
-## Objective 🎯
-My journey in computer science has fueled a deep passion for cybersecurity, and I am now eager to transition into offensive security. I am particularly drawn to penetration testing and ethical hacking, where I can apply my technical skills to identify and exploit vulnerabilities, strengthening security defenses. My goal is to develop expertise in red teaming, web application security, and network exploitation, ultimately contributing to proactive security measures.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img src="dark.svg" alt="Profile Hero Banner">
+  </picture>
+</p>
 
 ## Skills & Tools 🛠️
 
@@ -94,25 +94,3 @@ My journey in computer science has fueled a deep passion for cybersecurity, and 
   <img src="https://img.shields.io/badge/-OpenSecurityTraining2-000000?&style=for-the-badge&logo=OpenSecurityTraining&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
-
-## Projects 
-Here are some of my recent and public works (updated March 2026):
-
-| Project | Description | Language | Stars | Link |
-|---------|-------------|----------|-------|------|
-| **Réseau-social-simulation** | Simulation d'un réseau social en C++ avec concepts OOP (héritage, classes abstraites, STL) | C++ | ★1 | [🔗 View](https://github.com/ISMEG-ZAKARIA/Reseau-social-simulation) |
-| **Administration-personnel** | Système de gestion du personnel en C++ (OOP) – Employee Management Console App | C++ | ★1 | [🔗 View](https://github.com/ISMEG-ZAKARIA/administration-personnel) |
-| **Gestion-reservation-terrains** | Système de gestion de réservation de terrains sportifs développé avec Laravel | Blade (Laravel/PHP) | ★1 | [🔗 View](https://github.com/ISMEG-ZAKARIA/Gestion-reservation-terrains) |
-| **Games-Shop** | Professional game store website with modern UI and fully functional shopping cart | HTML/CSS/JS | ★1 | [🔗 View](https://github.com/ISMEG-ZAKARIA/Games-Shop) |
-| **Web-Vuln-Scanner** | Web vulnerability scanner tool | Python | ★3 | [🔗 View](https://github.com/ISMEG-ZAKARIA/Web-Vuln-Scanner) |
-| **ISMEG-Portfolio-v1** (Private) | Cybersecurity Portfolio - IS MEG Zakaria (in progress) | TypeScript | ★1 | — |
-
-**Penetration Tester / Security Projects in Progress**  
-- Building hands-on labs & write-ups (TryHackMe, HackTheBox, custom vulnerable apps)  
-- Developing small vuln scanners & automation scripts (Python) 
-- Planning: Web app pentest reports & CTF solutions repo coming soon! 
-
-## Currently Exploring 
-- Red team tooling & adversary emulation (MITRE ATT&CK mapping)  
-- Bug bounty hunting basics 💰  
-- Building a dedicated **Cybersecurity Write-ups** repo 📚
